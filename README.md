@@ -1,8 +1,10 @@
-### Ello, I'm Warren 👋
+## Ello, I'm Warren 👋
+### I'm 15 years old, and I love coding and attending hackathons!
 
 Here are some things I'm spending time on:
-- 🔭 I’m currently working on Midnight Hacks 
-- 🌱 I’m currently learning Next.JS and Data Analysis! 
+- 🔭 I’m currently working on organizing Midnight Hacks
+- 🌱 I’m currently learning Next.JS and R
+
 <!--
 **NebuDev14/NebuDev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
