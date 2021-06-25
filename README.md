@@ -1,6 +1,8 @@
 # ello, i'm Warren 👋
 ### I'm 15 years old, and I love programming and attending hackathons!
 
+<img src= "https://github-readme-stats.vercel.app/api?username=NebuDev14&show_icons=true&theme=dracula&count_private=true" />
+
 Here are some things I'm spending time on:
 - I’m currently working on [Meetup Map](https://github.com/MeetupMap), and organizing [Midnight Hacks](https://midnighthacks.tech/)
 - I’m currently learning Next.JS and R
