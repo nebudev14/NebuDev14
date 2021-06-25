@@ -5,6 +5,13 @@ Here are some things I'm spending time on:
 - 🔭 I’m currently working on organizing Midnight Hacks
 - 🌱 I’m currently learning Next.JS and R
 
+I'm currently interested in learning:
+- Data analysis
+- Algorithms and data structures
+- App development
+- Machine learning
+- Neuroscience!
+
 <!--
 **NebuDev14/NebuDev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
