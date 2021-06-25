@@ -1,4 +1,4 @@
-## Ello, I'm Warren 👋
+# Ello, I'm Warren 👋
 ### I'm 15 years old, and I love programming and attending hackathons!
 
 Here are some things I'm spending time on:
