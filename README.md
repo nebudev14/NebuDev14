@@ -1,4 +1,4 @@
-# ello, i'm Warren 👋
+# ello, i'm warren 👋
 ### I'm 15 years old, and I love programming and attending hackathons!
 
 <img src= "https://github-readme-stats.vercel.app/api?username=NebuDev14&show_icons=true&theme=dracula&count_private=true" />
