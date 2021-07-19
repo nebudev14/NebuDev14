@@ -2,8 +2,8 @@
 ### I'm 15 years old, and I love programming and building new things!
 
 Here are some things I'm spending time on:
-- I’m currently working on [Meetup Map](https://github.com/MeetupMap), and organizing [Midnight Hacks](https://midnighthacks.tech/)
-- I’m currently learning Next.JS and R
+- I’m currently working on [Control Panel](https://github.com/NebuDev14/Control-Panel)
+- I’m currently learning Next.JS, R, and Typescript!
 
 I'm currently interested in learning:
 - Data analysis
@@ -13,7 +13,7 @@ I'm currently interested in learning:
 - Neuroscience!
 
 <details closed>
-<summary> <b>github stats</b> </summary>
+<summary> <b>Github Stats</b> </summary>
 <table>
 <thead>
   <tr>
