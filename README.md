@@ -2,7 +2,7 @@
 ### I'm 15 years old, and I love programming and building new things!
 
 Here are some things I'm spending time on:
-- I’m currently working on [Control Panel](https://github.com/NebuDev14/Control-Panel)
+- I’m currently working on [Control Panel](https://github.com/NebuDev14/Control-Panel) and [Planify](https://github.com/NebuDev14/Planify)
 - I’m currently learning Next.JS, R, and Typescript!
 
 I'm currently interested in learning:
