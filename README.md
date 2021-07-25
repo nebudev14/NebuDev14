@@ -33,7 +33,7 @@ I'm currently interested in learning:
     <td>
    <img 
       align="center" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebuDev14&layout=compact&theme=dracula" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebuDev14&layout=compact&theme=dracula&langs_count=6" 
       alt="top languages" />
    </td>
   </tr>
