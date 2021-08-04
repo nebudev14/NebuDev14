@@ -3,7 +3,7 @@
 
 Here are some things I'm spending time on:
 - I’m currently working on [Control Panel](https://github.com/NebuDev14/Control-Panel) and [Planify](https://github.com/NebuDev14/Planify)
-- I’m currently learning Next.JS, R, and Typescript!
+- I’m currently learning Go, Rust, and Typescript!
 
 I'm currently interested in learning:
 - Data analysis
