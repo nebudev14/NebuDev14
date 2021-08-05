@@ -2,6 +2,7 @@
 ### I'm 15 years old, and I love programming and building new things!
 
 I’m currently learning Go, Rust, and Typescript!
+
 Also open to collaborating on projects!
 
 I'm currently interested in learning:
