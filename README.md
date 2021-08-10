@@ -3,7 +3,7 @@
 
 I’m currently learning Go, Rust, and Typescript!
 
-Also open to collaborating on projects!
+I'm currently working on [The Orpheus Show](https://github.com/Orpheuspod/orpheus-show)
 
 I'm currently interested in learning:
 - Data analysis
