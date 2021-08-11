@@ -7,8 +7,6 @@ I'm currently working on [The Orpheus Show](https://github.com/Orpheuspod/orpheu
 
 I'm currently interested in learning:
 - Data analysis
-- Algorithms and data structures
-- App development
 - Machine learning
 - Neuroscience!
 
