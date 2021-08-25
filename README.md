@@ -1,8 +1,6 @@
 # heya, i'm warren 👋
 ### I'm 15 years old, and I love programming and building new things!
 
-I’m currently learning Go and Rust!
-
 I'm currently working on [The Orpheus Show](https://github.com/Orpheuspod/orpheus-show)
 
 I'm currently interested in learning:
