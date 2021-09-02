@@ -3,6 +3,8 @@
 
 I'm currently learning Go!
 
+I'm currently working on Diseasy Peasy!
+
 I'm currently interested in learning:
 - Data analysis
 - Machine learning
