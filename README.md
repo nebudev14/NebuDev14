@@ -3,8 +3,6 @@
 
 I'm currently learning Go, Prisma, TailwindCSS, and PostgreSQL!
 
-I'm currently working on Diseasy Peasy!
-
 I'm currently interested in learning:
 - Data analysis
 - Machine learning
