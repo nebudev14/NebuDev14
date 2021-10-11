@@ -1,7 +1,7 @@
 # heya, i'm warren 👋
 ### I'm 15 years old, and I love programming and building new things!
 
-I'm currently learning Machine Learning!
+I'm currently learning Machine Learning and Data Analysis!
 
 I'm currently interested in learning:
 - Data analysis
