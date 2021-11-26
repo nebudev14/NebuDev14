@@ -1,7 +1,7 @@
 # heya, i'm warren 👋
 ### I'm 15 years old, and I love programming and building new things!
 
-I'm currently learning Rust, Machine Learning, and web development!
+I'm currently learning data analysis, web development technologies, neuroscience, and more!
 
 I'm currently interested in learning:
 - Data analysis
