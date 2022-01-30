@@ -1,5 +1,5 @@
 # heya, i'm warren 👋
-### I'm 15 years old, and I love programming and building new things!
+### i'm 15 years old, and i;m addicted to all things coding and creating new things !
 
 I'm currently learning: 
 - Fullstack web development!
