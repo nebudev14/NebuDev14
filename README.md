@@ -1,5 +1,5 @@
 # heya, i'm warren 👋
-### i like to build stuff
+i like to build stuff.
 
 
 <details closed>
