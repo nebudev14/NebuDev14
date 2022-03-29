@@ -1,4 +1,4 @@
-# heya, i'm warren 👋
+# heya, i'm warren.
 i like to build stuff.
 
 
