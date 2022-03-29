@@ -1,10 +1,5 @@
 # heya, i'm warren 👋
-### i'm 16 years old, and i'm addicted to all things coding and creating new things !
-
-I'm currently learning: 
-- Fullstack web development!
-- Bioinformatics
-- Neuroscience
+### i like to build stuff
 
 
 <details closed>
