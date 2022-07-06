@@ -1,6 +1,8 @@
-# heya, i'm warren.
-i like to build stuff.
+heya, i'm warren. i like to tinker with random things and build stuff. 
 
+🌎 https://nebudev.vercel.app/
+
+📨 [wyun2006@gmail.com](mailto:wyun2006@gmail.com)
 
 <details closed>
 <summary> <b>Github Stats</b> </summary>
