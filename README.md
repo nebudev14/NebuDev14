@@ -1,8 +1,10 @@
-heya, i'm warren. i like to tinker with random things and build stuff. 
+heya, **i'm warren.** welcome to my lil' corner of the internet.
 
-🌎 https://nebudev.vercel.app/
+i'm a maker that loves building and tinkerin' with random technologies.
 
-📨 [wyun2006@gmail.com](mailto:wyun2006@gmail.com)
+currently my interests deal with web development and robotics, along with embedded systems and security.
+
+if you're interested in some of the stuff i do, you can check out [my website 🌎](https://nebudev.vercel.app/)
 
 <details closed>
 <summary> <b>Github Stats</b> </summary>
