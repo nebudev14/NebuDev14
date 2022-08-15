@@ -1,4 +1,4 @@
-heya, **i'm warren.** welcome to my lil' corner of the internet.
+**heya, i'm warren. welcome to my lil' corner of the internet.**
 
 i'm a maker that loves building and tinkerin' with random technologies.
 
