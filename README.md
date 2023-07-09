@@ -8,6 +8,8 @@ if you're interested in some of the stuff i do, you can check out [my website �
 
 you can reach me at `hi [at] wyun [dot] dev`  ✉️
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cr8kxs7r8bft1ne92k3y5h4jp&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=d309e1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cr8kxs7r8bft1ne92k3y5h4jp&redirect=true)
+
 <details closed>
 <summary> <b>Github Stats</b> </summary>
 <table>
