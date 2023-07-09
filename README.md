@@ -2,9 +2,11 @@
 
 i'm a maker that loves building and tinkerin' with random technologies.
 
-currently my interests deal with web development and robotics, along with embedded systems and security.
+currently my interests deal with robotics, web development, and embedded systems
 
 if you're interested in some of the stuff i do, you can check out [my website 🌎](https://nebudev.vercel.app/)
+
+you can reach me at `hi [at] wyun [dot] dev`  ✉️
 
 <details closed>
 <summary> <b>Github Stats</b> </summary>
