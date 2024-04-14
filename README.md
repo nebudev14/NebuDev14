@@ -1,8 +1,6 @@
 **heya, i'm warren. welcome to my lil' corner of the internet.**
 
-i'm a maker that loves building and tinkerin' with random technologies.
-
-currently my interests deal with robotics, web development, and embedded systems
+i'm a maker that loves building and tinkerin' with random tech. i'm also quite a big fan of building [robots.](https://www.youtube.com/watch?v=Q2C3_wkqsVw)
 
 if you're interested in some of the stuff i do, you can check out [my website 🌎](https://wyun.dev/)
 
