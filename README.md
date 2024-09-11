@@ -4,7 +4,7 @@ i'm a maker that loves building and tinkerin' with random tech. i'm also quite a
 
 i'm majoring in robotics engineering & cs @ wpi'28.
 
-if you're interested in some of the stuff i do, you can check out [my website 🌎](https://wyun.dev/)
+if you're interested in some of the stuff i do, you can check out [my website 🌎](https://www.wyun.sh/)
 
-you can reach me at `hi [at] wyun [dot] dev`  ✉️
+you can reach me at `wyun2006 [at] gmail [dot] com`  ✉️
 
