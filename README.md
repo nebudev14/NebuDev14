@@ -1,6 +1,6 @@
 **heya, i'm warren. welcome to my lil' corner of the internet.**
 
-i'm a maker that loves building and tinkerin' with random tech. i'm also quite a big fan of building [robots.](https://www.youtube.com/watch?v=Q2C3_wkqsVw)
+i'm a maker that loves building with various tech. i'm also quite a big fan of building [robots.](https://www.youtube.com/watch?v=Q2C3_wkqsVw)
 
 i'm majoring in robotics engineering & cs @ wpi'28.
 
